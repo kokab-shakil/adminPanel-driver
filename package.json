@@ -3,7 +3,8 @@
   "version": "1.10.0",
   "description": "Material Dashboard React. Coded by Creative Tim",
   "engines": {
-    "node": "14.17.0"
+    "node": "14.17.0",
+    "npm": "6.14.13"
   },
   "private": false,
   "main": "dist/index.js",
